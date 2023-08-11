@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 🌍 Hello, world! And greetings, fellow coder or recruiter! 👋
 Welcome aboard my GitHub time machine! 🕰️✨ Settle in, and let me give you a tour of my code journey. Grab some ☕️ and enjoy the ride!
 
@@ -46,4 +44,4 @@ I bring nearly 2 years of experience in the crypto sphere, working as a backend 
 I'd love to connect, collaborate, or just chat. 💌 Reach out if you're as passionate about tech and innovation as I am!
 
 ---
-
+[![Instagram]([[URL_of_Instagram_logo_image](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg))](https://www.instagram.com/berestovsky.tech/)
