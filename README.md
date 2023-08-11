@@ -44,4 +44,5 @@ I bring nearly 2 years of experience in the crypto sphere, working as a backend 
 I'd love to connect, collaborate, or just chat. 💌 Reach out if you're as passionate about tech and innovation as I am!
 
 ---
-[![Instagram]([URL_of_Instagram_logo_image](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg))](https://www.instagram.com/berestovsky.tech/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" height="40em" align="center" alt="Follow Stepan on LinkedIn" title="Follow Stepan on LinkedIn"/>](https://www.linkedin.com/in/stepan-tita/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="40em" align="center" alt="Follow Stepan on Instagram" title="Follow Stepan on Instagram"/>](https://instagram.com/berestovsky.tech)
