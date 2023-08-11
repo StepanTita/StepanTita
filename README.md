@@ -22,7 +22,7 @@ My GitHub captures milestones, learnings, and challenges. It's more than code; i
 
 - 📅 **2019**: My first end-to-end project with UI/UX, backend, algorithms, and visualizations - [bstree-tango](https://github.com/StepanTita/bstree-tango).
   
-- 🕰️ **Pandemic Era**: Developed a PWA to help me (and others) keep track of sporadic online classes in Spain - [pwa-timetable](https://github.com/StepanTita/pwa-timetable/tree/master).
+- 🕰️ **Pandemic Era**: Developed a PWA to help me (and others) keep track of sporadic online classes in Spain - [pwa-timetable](https://github.com/StepanTita/pwa-timetable/tree/pwa-dev).
 
 - 📅 **2021**: Bachelor's thesis representing a smart drone system with road quality and state image recognition IOT - [rdrone-back](https://github.com/StepanTita/rdrone-back).
 
