@@ -9,12 +9,13 @@ Welcome aboard my GitHub time machine! 🕰️✨ Settle in, and let me give you
 - 💾 First commit & pull request  
 - 🎓 First bachelor's degree in Software Engineering from **Kharkiv National University of Radio Electronics**
 
-[<img src="https://nure.ua/wp-content/themes/nure/images/logo.png?v=2.0" height="60em" width="60em" alt="NURE" title="NURE" align="center"/>](https://nure.ua/en/)
+[<p align="center"><img src="https://studyua.org/wp-content/uploads/2017/04/logoKNURE1111.png" height="80em" width="100em" alt="NURE" title="NURE" align="center"/></p>](https://nure.ua/en/)
+- 
 ### 🗽 **Current Location: New York, USA**
 *I've made my way here for an upgrade!*  
 - 📚 Currently pursuing my Master's in Computer Science with a concentration in Data Science at **Fordham University**.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fordham_University_Logo.png" height="80em" width="70em" alt="Fordham" title="Fordham" align="center"/>](https://www.fordham.edu)
+[<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fordham_University_Logo.png" height="80em" width="60em" alt="Fordham" title="Fordham" align="center"/></p>](https://www.fordham.edu)
 
 ### 🌌 **Exploring My GitHub Universe**
 My GitHub captures milestones, learnings, and challenges. It's more than code; it's a snapshot of my journey. 🚀
