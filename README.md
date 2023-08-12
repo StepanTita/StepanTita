@@ -22,14 +22,14 @@ My GitHub captures milestones, learnings, and challenges. It's more than code; i
 
 - 📅 **2019**: My first end-to-end project with UI/UX, backend, algorithms, and visualizations - [bstree-tango](https://github.com/StepanTita/bstree-tango).
   
-- 🕰️ **Pandemic Era**: Developed a PWA to help me (and others) keep track of sporadic online classes in Spain - [pwa-timetable](https://github.com/StepanTita/pwa-timetable/tree/pwa-dev).
+- 🕰️ **Pandemic Era (2020)**: Developed a PWA to help me (and others) keep track of sporadic online classes in Spain - [pwa-timetable](https://github.com/StepanTita/pwa-timetable/tree/pwa-dev).
 
-- 📅 **2021**: Bachelor's thesis representing a smart drone system for road quality assurance - [rdrone-back](https://github.com/StepanTita/rdrone-back).
-- Research paper on fine-tuning transformers for Ukrainian Language [news-contest](https://github.com/StepanTita/news-contest)
+- 📅 **2021**: Bachelor's thesis representing a smart drone system for road quality assurance - [rdrone](https://github.com/StepanTita/rdrone-back).
+  - Research paper on fine-tuning transformers for Ukrainian Language [news-contest](https://github.com/StepanTita/news-contest)
 
 - 📅 **2022**: Dive into my research projects - [q-learning](https://github.com/StepanTita/q-learning) & [semi-supervised-regression](https://github.com/StepanTita/semi-supervised-regression).
 
-- 🔐 **Crypto Projects**: Current explorations include [crypto-news](https://github.com/StepanTita/crypto-news) & [crypto-trading](https://github.com/StepanTita/crypto-trading).
+- 🔐 **Crypto Projects (2023)**: Current explorations include [crypto-news](https://github.com/StepanTita/crypto-news) & [crypto-trading](https://github.com/StepanTita/crypto-trading).
 
 ### 🔭 **Focus & Interests**
 Deep Learning & Natural Language Processing (NLP) have captivated my heart and mind. The potential in these branches of machine learning is vast, and I'm all in!
