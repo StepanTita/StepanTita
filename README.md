@@ -24,7 +24,8 @@ My GitHub captures milestones, learnings, and challenges. It's more than code; i
   
 - 🕰️ **Pandemic Era**: Developed a PWA to help me (and others) keep track of sporadic online classes in Spain - [pwa-timetable](https://github.com/StepanTita/pwa-timetable/tree/pwa-dev).
 
-- 📅 **2021**: Bachelor's thesis representing a smart drone system with road quality and state image recognition IOT - [rdrone-back](https://github.com/StepanTita/rdrone-back). And research paper on fine-tuning transformers for Ukrainian Language [news-contest](https://github.com/StepanTita/news-contest)
+- 📅 **2021**: Bachelor's thesis representing a smart drone system for road quality assurance - [rdrone-back](https://github.com/StepanTita/rdrone-back).
+- Research paper on fine-tuning transformers for Ukrainian Language [news-contest](https://github.com/StepanTita/news-contest)
 
 - 📅 **2022**: Dive into my research projects - [q-learning](https://github.com/StepanTita/q-learning) & [semi-supervised-regression](https://github.com/StepanTita/semi-supervised-regression).
 
