@@ -28,7 +28,7 @@ My GitHub captures milestones, learnings, and challenges. It's more than code; i
   - Research paper on fine-tuning transformers for Ukrainian Language [news-contest](https://github.com/StepanTita/news-contest)
 
 - 📅 **2022**: Dive into my research projects - [q-learning](https://github.com/StepanTita/q-learning) & [semi-supervised-regression](https://github.com/StepanTita/semi-supervised-regression).
-  - And me having fun training LLM on my telegram chats with a mix of anecdotes and math tasks 👀 [llm-friend-bot]([https://github.com/StepanTita/news-contest](https://github.com/StepanTita/llm-friend-bot))
+  - And me having fun training LLM on my telegram chats with a mix of anecdotes and math tasks 👀 [llm-friend-bot](https://github.com/StepanTita/llm-friend-bot)
 
 - 🔐 **Crypto Projects (2023)**: Current explorations include [crypto-news](https://github.com/StepanTita/crypto-news) & [crypto-trading](https://github.com/StepanTita/crypto-trading).
 
