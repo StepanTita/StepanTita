@@ -32,6 +32,9 @@ My GitHub captures milestones, learnings, and challenges. It's more than code; i
 
 - 🔐 **Crypto Projects (2023)**: Current explorations include [crypto-news](https://github.com/StepanTita/crypto-news) & [crypto-trading](https://github.com/StepanTita/crypto-trading).
 
+- 🔬**Research aspirations (2023)**: My research focus currently falls on explainable and interpretable Language Models, including LLMs
+  - [Nano-BERT](https://github.com/StepanTita/nano-BERT) & [space-model](https://github.com/StepanTita/space-model) the latter is still in active development
+
 ### 🔭 **Focus & Interests**
 Deep Learning & Natural Language Processing (NLP) have captivated my heart and mind. The potential in these branches of machine learning is vast, and I'm all in!
 
@@ -42,7 +45,7 @@ Deep Learning & Natural Language Processing (NLP) have captivated my heart and m
 
 ### 🌟 **A Bit More About Me**
 I bring nearly 2 years of experience in the crypto sphere, working as a backend developer, primarily with GoLang. I then transitioned into the CRM domain for a year, giving me a robust understanding of micro-service architectures. While I've delved into multiple languages professionally, **Python** remains my true love ❤️. 
-The highlight of Summer 2023? My ML/DS internship with the **Volvo Group**.
+The highlight of Summer 2023? My ML/DS internship with the **Volvo Group**. Currently working on some inspiring projects in the real of NLP in the role of a Graduate Research Assistant at Fordham University.
 
 ---
 
