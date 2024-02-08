@@ -1,6 +1,10 @@
 ## 🌍 Hello, world! And greetings, fellow coder or recruiter! 👋
 Welcome aboard my GitHub time machine! 🕰️✨ Settle in, and let me give you a tour of my code journey. Grab some ☕️ and enjoy the ride!
 
+[![Stepans's Github Stats](https://github-readme-stats.vercel.app/api?username=StepanTita&hide=contribs,issues&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StepanTita&layout=compact&theme=default&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🇺🇦 **Origin: Kharkiv, Ukraine**
 *This is where it all began...*  
 - 🖥️ My first computer  
