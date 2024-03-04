@@ -36,8 +36,17 @@ My GitHub captures milestones, learnings, and challenges. It's more than code; i
 
 - 🔐 **Crypto Projects (2023)**: Current explorations include [crypto-news](https://github.com/StepanTita/crypto-news) & [crypto-trading](https://github.com/StepanTita/crypto-trading).
 
-- 🔬**Research aspirations (2023)**: My research focus currently falls on explainable and interpretable Language Models, including LLMs
+- 🔬**Research aspirations (2023-2024)**: My research focus currently falls on explainable and interpretable Language Models, including LLMs
   - [Nano-BERT](https://github.com/StepanTita/nano-BERT) & [space-model](https://github.com/StepanTita/space-model) the latter is still in active development
+  - [CAM-BERT](https://github.com/StepanTita/cam-bert) Context Attribution Language Model Fine-tuning Framework & [CAM-Explain](https://github.com/StepanTita/cam-explain) Context Attribution explanation benchmarking
+ 
+### 📑 Papers & Conferences:
+- Multimodal News Source Classification with NLP Transformers (2022) [[ICTERI](https://link.springer.com/chapter/10.1007/978-3-031-14841-5_37), [Code](https://github.com/StepanTita/news-contest)]
+- Space Model Framework for Conceptual Modelling in NLP (2023) [[AAAI](https://sites.google.com/vectorinstitute.ai/relm2024/schedule?authuser=0), [ArXiv](https://arxiv.org/abs/2401.16638), [Code](https://github.com/StepanTita/space-model)]
+  - **🎉 Best paper award**
+  - **🌟 Spotlight Presentation**
+  - **🌟 AGI Leap Summit 2024**
+- Transformer Context Attribution for Fake News Detection (2024) [ICLR, ArXiv, [Code](https://github.com/StepanTita/cam-bert)]
 
 ### 🔭 **Focus & Interests**
 Deep Learning & Natural Language Processing (NLP) have captivated my heart and mind. The potential in these branches of machine learning is vast, and I'm all in!
@@ -45,11 +54,11 @@ Deep Learning & Natural Language Processing (NLP) have captivated my heart and m
 ### 🧰 **Professional Toolkit**
 - **Languages**: Python, GoLang, C++, SQL
 - **Technologies**: Databricks, PySpark, Hive, PyTorch, Tensorflow, PostgreSQL, NoSQL (Redis, Mongo)
-- **Tools**: gRPC, REST, Docker, Terraform, Bash, AWS
+- **Tools**: gRPC, REST, Docker, Terraform, Bash, AWS, Google Cloud
 
 ### 🌟 **A Bit More About Me**
 I bring nearly 2 years of experience in the crypto sphere, working as a backend developer, primarily with GoLang. I then transitioned into the CRM domain for a year, giving me a robust understanding of micro-service architectures. While I've delved into multiple languages professionally, **Python** remains my true love ❤️. 
-The highlight of Summer 2023? My ML/DS internship with the **Volvo Group**. Currently working on some inspiring projects in the real of NLP in the role of a Graduate Research Assistant at Fordham University.
+The highlight of Summer 2023? My ML/DS internship with the **Volvo Group**. Currently working on some inspiring projects in the real of NLP in the role of a Graduate Researcher at Fordham University.
 
 ---
 
